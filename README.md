@@ -1,1 +1,1 @@
-## 1 - Rodar um arquivo .ts sem causar erros
+## 1 - Rodar um arquivo .ts
