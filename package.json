@@ -14,5 +14,13 @@
   },
   "devDependencies": {
     "typescript": "^4.7.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casima/TypeScriptNaPratica.git"
+  },
+  "bugs": {
+    "url": "https://github.com/casima/TypeScriptNaPratica/issues"
+  },
+  "homepage": "https://github.com/casima/TypeScriptNaPratica#readme"
 }
